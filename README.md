@@ -64,8 +64,3 @@ Here are some of my most recent and exciting projects:
 - **Email**: [krassytsaneff@gmail.com](mailto:krassytsaneff@gmail.com)  
 - **GitHub**: [github.com/KTsaneff](https://github.com/KTsaneff)  
 - **LinkedIn**: [Krasimir Tsanev](https://www.linkedin.com/in/krasimir-tsanev-97ba64204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjKbf309xSHSaa%2FFLpHBE5Q%3D%3D)
-
----
-
-### ✨ Fun Fact
-I thrive on bridging the gap between technology and people, whether it's by teaching others or delivering impactful projects.
