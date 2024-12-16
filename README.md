@@ -7,8 +7,8 @@ I am an organized and dependable professional with a proven track record of mana
 ---
 
 ### 🛠️ Tech Stack
-- **Languages & Frameworks**: C#, ASP.NET Core, JavaScript, React.js, T-SQL, Next.js
-- **Databases**: MSSQL, Entity Framework Core
+- **Languages & Frameworks**: C#, ASP.NET Core, Entity Framework Core, NUnit Framework, JavaScript, React.js, T-SQL
+- **Databases**: MSSQL, MySQL
 - **Tools**: Docker, QA Automation/Manual, HTML & CSS
 - **Methodologies**: Exam Development, Training Coordination, Course Material Creation
 
