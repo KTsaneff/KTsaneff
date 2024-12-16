@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hello, I'm Krasimir Tsanev!
 
-<!--
-**KTsaneff/KTsaneff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | 💡 Tech Enthusiast | 🎓 Training Coordinator at Software University
 
-Here are some ideas to get you started:
+I am an organized and dependable professional with a proven track record of managing multiple priorities while delivering exceptional results. With expertise in software development, training coordination, and ongoing studies in Computer Sciences, I bring a unique blend of technical and interpersonal skills to every project I undertake.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages & Frameworks**: C#, ASP.NET Core, JavaScript, React.js, T-SQL, Next.js
+- **Databases**: MSSQL, Entity Framework Core
+- **Tools**: Docker, QA Automation/Manual, HTML & CSS
+- **Methodologies**: Exam Development, Training Coordination, Course Material Creation
+
+---
+
+### 📚 Certifications
+- **Complete Guide to Web API in .NET 8: Master API Development** (Oct 2024, Udemy)  
+- **ASP.NET Advanced** (Feb 2024)  
+- **Back-End Test Automation** (Mar 2024)  
+- **MS SQL** (May 2022)  
+- **JavaScript Application** (Feb 2022)  
+
+---
+
+### 🌟 Projects
+Here are some of my most recent and exciting projects:
+
+1. **[Build a Social Media App with ASP.NET](#)**  
+   Developed a feature-rich social media platform using ASP.NET Core, focusing on user authentication, posts, and interactive features. (Udemy course project)
+
+2. **[Build Modern Portfolio with React.js and Next.js 14](#)**  
+   Designed a personal portfolio showcasing cutting-edge skills and projects using React.js and the latest Next.js 14 framework. (2024, Udemy course project)
+
+3. **[CinemaWebApp](#)**  
+   A dynamic platform for managing cinema programs, buying tickets, and user-specific watchlists.
+
+4. **[Horizons](#)**  
+   A platform showcasing touristic places in Bulgaria, with functionalities such as user-specific favorite lists, terrain categorization, and detailed views of destinations.
+
+---
+
+### 🌍 Education
+- **Bachelor of Science in Computer Sciences**  
+  UniBIT - Sofia (Expected Graduation: May 2028)
+
+---
+
+### 💼 Work Experience
+- **Training Coordinator** (2023 - Present)  
+  [Software University - Sofia, Remote]  
+  - Developed all exams for the C# path (C# Advanced, C# OOP, MSSQL, Entity Framework Core, ASP.NET).
+  - Produced comprehensive training materials, presentations, and resources.
+  - Improved training program performance with data-driven strategies.
+
+- **Intern** (2022 - 2023)  
+  [Software University - Sofia, Remote]  
+  - Created and revised course materials and exams.
+  - Collaborated on solutions to improve the learning process.
+
+---
+
+### 📫 Get in Touch
+- **Email**: [krassytsaneff@gmail.com](mailto:krassytsaneff@gmail.com)  
+- **GitHub**: [github.com/KTsaneff](https://github.com/KTsaneff)  
+- **LinkedIn**: [Krasimir Tsanev](https://bold.pro/my/tsaneff/452r)
+
+---
+
+### ✨ Fun Fact
+I thrive on bridging the gap between technology and people, whether it's by teaching others or delivering impactful projects.
