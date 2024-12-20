@@ -11,6 +11,7 @@ I am an organized and dependable professional with a proven track record of mana
 - **Databases**: MSSQL, MySQL
 - **Tools**: Docker, QA Automation/Manual, HTML & CSS
 - **Methodologies**: Exam Development, Training Coordination, Course Material Creation
+- **Currently Exploring**: C++ 🚀
 
 ---
 
