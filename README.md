@@ -27,16 +27,19 @@ I am an organized and dependable professional with a proven track record of mana
 ### 🌟 Projects
 Here are some of my most recent and exciting projects:
 
-1. **[Build a Social Media App with ASP.NET](#)**  
+1. **[AutomotiveWebApi](https://github.com/KTsaneff/AutomotiveWebApi)**  
+   A powerful automotive platform built with ASP.NET Core and MongoDB. Enables adding, editing, and retrieving detailed vehicle information. JWT-secured and React-ready.
+
+2.  **[Build a Social Media App with ASP.NET](#)**  
    Developed a feature-rich social media platform using ASP.NET Core, focusing on user authentication, posts, and interactive features. (Udemy course project)
 
-2. **[Build Modern Portfolio with React.js and Next.js 14](#)**  
+3. **[Build Modern Portfolio with React.js and Next.js 14](#)**  
    Designed a personal portfolio showcasing cutting-edge skills and projects using React.js and the latest Next.js 14 framework. (2024, Udemy course project)
 
-3. **[CinemaWebApp](#)**  
+4. **[CinemaWebApp](#)**  
    A dynamic platform for managing cinema programs, buying tickets, and user-specific watchlists.
 
-4. **[Horizons](#)**  
+5. **[Horizons](#)**  
    A platform showcasing touristic places in Bulgaria, with functionalities such as user-specific favorite lists, terrain categorization, and detailed views of destinations.
 
 ---
