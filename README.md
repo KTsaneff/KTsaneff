@@ -16,6 +16,7 @@ I am an organized and dependable professional with a proven track record of mana
 ---
 
 ### 📚 Certifications
+- **Understanding TypeScript** (Oct 2025, Udemy)
 - **Complete Guide to Web API in .NET 8: Master API Development** (Oct 2024, Udemy)  
 - **ASP.NET Advanced** (Feb 2024)  
 - **Back-End Test Automation** (Mar 2024)  
